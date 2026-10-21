@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+MacPad.app/
+*.xcodeproj/
+.DS_Store
