@@ -3,3 +3,4 @@
 MacPad.app/
 *.xcodeproj/
 .DS_Store
+dist/
